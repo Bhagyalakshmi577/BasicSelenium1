@@ -16,7 +16,7 @@ public class AlertPopUp {
 		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
 		driver.get("https://the-internet.herokuapp.com/javascript_alerts");
 
-		//push1
+		//Modified again
 		//Alert is an interface
 		
 		//driver.findElement(By.xpath("//button[text()='Click for JS Alert']")).click();
